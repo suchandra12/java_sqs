@@ -1,0 +1,13 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIAT57KB7CCMJUDXJ6C
+      secret-key: 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
+    end-point: 
+      uri: https://sqs.ap-south-1.amazonaws.com/270536931460/javaQueue
+      
+   
+      
